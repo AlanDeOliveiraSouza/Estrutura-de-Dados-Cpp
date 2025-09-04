@@ -1,0 +1,8 @@
+Esta aula foi dedicada a apresentação de seminários em grupo com o tema "Algoritmos de Ordenação".
+
+Os algoritmos apresentados foram:
+- Bubble Sort
+- Shell Sort
+- Quick Sort
+- Merge Sort
+- Heap Sort
